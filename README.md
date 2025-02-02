@@ -78,4 +78,3 @@ Motivated **Data Engineer** with over **2.6 years of experience** in **Data Anal
 </p>
 
 
-🎯 "Data is the new oil, and I'm here to refine it into powerful insights." 🚀
