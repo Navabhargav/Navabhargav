@@ -60,12 +60,22 @@ Motivated **Data Engineer** with over **2.6 years of experience** in **Data Anal
 
 ---
 
-### 🏆 Achievements
-🏅 **Ranked in top 0.1% of students**, *selected as one of 25 student venture capitalists in QMSVF*
-🏅 **Winner of 2 National-Level Hackathons** *(SPIKES18, IIT Bombay Innovation Cell)*  
-🏅 **Winner of Entrepreneurship workshop competition** *School of Business & Management, QMUL*
-🏅 **Robo-wars & Drone Racing Champion** *(AI-powered autonomous robotics)*  
-🏅 **Elected as 1 of 25 venture capitalists for the QMUL Social Venture Fund**
+### 🏆 Achievements  
+
+🏅 **Ranked in the Top 0.1% of Students**  
+*Selected as one of 25 student venture capitalists in QMSVF (Queen Mary Social Venture Fund)*  
+
+🏅 **Champion of 2 National-Level Hackathons**  
+*Winner at SPIKES18 and IIT Bombay Innovation Cell competitions*  
+
+🏅 **Entrepreneurship Workshop Winner**  
+*Secured first place in the Business & Management competition at QMUL*  
+
+🏅 **Robo-Wars & Drone Racing Champion**  
+*Designed and developed AI-powered autonomous robotics*  
+
+🏅 **Selected Venture Capitalist**  
+*One of 25 chosen for the QMUL Social Venture Fund, evaluating and investing in student-led startups*  
 
 ---
 
