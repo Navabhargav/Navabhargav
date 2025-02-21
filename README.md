@@ -17,7 +17,6 @@ Motivated **Data Engineer** with over **2.6 years of experience** in **Data Anal
 
 ---
 
-
 ## 🛠 Technical Skills   
 
 | *Category* | *Skills* |
