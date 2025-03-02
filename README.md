@@ -1,5 +1,5 @@
 ### Hi there, I'm **Nava Bhargav Gedda** 👋  
-#### 🚀 Data Engineer | AI Enthusiast | Python Developer  
+#### 🚀 Data Analyst | AI Enthusiast | Python Developer  
 
 Motivated **Data Engineer** with over **2.6 years of experience** in **Data Analytics, Predictive Modeling, Automation**, and **Cloud Computing**. Strong background in **Python, SQL, ETL**, and **Big Data Pipelines**, with a passion for **Machine Learning & AI**. Skilled in building **high-performance scalable solutions** that drive **data-driven business decisions**.
 
