@@ -5,7 +5,6 @@ Motivated **Data Engineer** with over **3 years of experience** in **Data Analyt
 
 ---
 
-
 ### 🌱 What I'm Currently Up To:
 🔹 Working on **Data Engineering & AI Projects** 🚀  
 🔹 Exploring **LLMs & Generative AI** 🤖  
