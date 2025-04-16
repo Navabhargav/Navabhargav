@@ -62,7 +62,6 @@ Motivated **Data Engineer** with over **3 years of experience** in **Data Analyt
 
 ### 🏆 Achievements  
 
-
 🏅 **Ranked in the Top 0.1% of Students**  
 *Selected as one of 25 student venture capitalists in QMSVF (Queen Mary Social Venture Fund)*  
 
