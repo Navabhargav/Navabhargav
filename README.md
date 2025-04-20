@@ -45,13 +45,13 @@ Motivated **Data Engineer** with over **3 years of experience** in **Data Analyt
 ---
 
 ### 📊 GitHub Stats 📊
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Navabhargav&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navabhargav&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navabhargav&layout=compact&theme=radical" width="48%" />
-  <!img src="https://activity-graph.herokuapp.com/graph?username=Navabhargav&theme=radical" width="100%" />
-  <!img src="https://github-profile-trophy.vercel.app/?username=Navabhargav&theme=radical" width="100%" />
-  <img src="https://komarev.com/ghpvc/?username=Navabhargav&label=Profile%20views&color=0e75b6&style=flat" alt="Navabhargav" />
+  <p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=Navabhargav&show_icons=true&theme=radical" width="45%" /> &nbsp; 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navabhargav&theme=radical" width="45%" /> </p> <p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navabhargav&layout=compact&theme=radical" width="45%" /> &nbsp; 
+    <img src="https://github-profile-trophy.vercel.app/?username=Navabhargav&theme=radical&row=1&column=6" width="90%" /> </p> <p align="center"> 
+    <!img src="https://activity-graph.herokuapp.com/graph?username=Navabhargav&theme=radical" width="95%" /> </p> <p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=Navabhargav&label=Profile%20views&color=0e75b6&style=flat" alt="Navabhargav" /> </p>
 
 </p>
 
