@@ -74,7 +74,6 @@ Motivated **Data Engineer** with over **3 years of experience** in **Data Analyt
 🏅 **Robo-Wars & Drone Racing Champion**  
 *Designed and developed AI-powered autonomous robotics*  
 
-
 🏅 **Selected Venture Capitalist**  
 *One of 25 chosen for the QMUL Social Venture Fund, evaluating and investing in student-led startups*  
 
