@@ -13,7 +13,7 @@ Motivated **Data Engineer** with over **3 years of experience** in **Data Analyt
 💬 Ask me about **Python, Data Engineering, and Machine Learning!**
 
 📫 Reach me: **navabhargavg@gmail.com**  
-🔗 [**LinkedIn**](https://linkedin.com/in/nava-bhargav-gedda-4a4a30151/) | [**Portfolio**](#) | [**GitHub**](https://github.com/Navabhargav) | [**Forage**](https://www.theforage.com/profile/s2MYt2uMW6PFhwxqv)
+🔗 [**LinkedIn**](https://linkedin.com/in/nava-bhargav-gedda-4a4a30151/) | [**Portfolio**](#) | [**GitHub**](https://github.com/Navabhargav) | [**Forage**](https://www.theforage.com/profile/s2MYt2uMW6PFhwxqv) [**Databricks**](https://customer-academy.databricks.com/legacy/lms/index.php%3Fr%3DmyActivities/index)
 
 ---
 
