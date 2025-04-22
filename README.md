@@ -2,6 +2,7 @@
 #### 🚀 Data Analyst | AI Enthusiast | Python Developer  
 
 Motivated **Data Engineer** with over **3 years of experience** in **Data Analytics, Predictive Modeling, Automation**, and **Cloud Computing**. Strong background in **Python, SQL, ETL**, and **Big Data Pipelines**, with a passion for **Machine Learning & AI**. Skilled in building **high-performance scalable solutions** that drive **data-driven business decisions**. I recently completed my Masters in **Business Analytics** from **Queen Mary University of London**, where i have gained expertise in Python, ML & AI, PowerBI. I have **Right to work** in the UK.
+
 ---
 
 ### 🌱 What I'm Currently Up To:
